@@ -143,7 +143,7 @@ The assistant is designed to be used by anyone looking to improve their eating h
 
 ---
 
-## ⚖️ License![Uploading instructions.png…]()
+## ⚖️ License!
 
 
 This project is licensed under the **MIT License**.
@@ -152,16 +152,10 @@ This project is licensed under the **MIT License**.
 
 ## 🔗 Connect with Me on LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+[LinkedIn Profile](https://www.linkedin.com/in/manjunatha-r-999371306/)
 
 ---
 
-Created with 💙 during the **IBM SkillsBuild for Academia Internship 2025** by **[Your Name]**.
+Created with during the **IBM SkillsBuild for Academia Internship 2025** by **Manjunatha R**.
 
 ---
-
-### Steps:
-1. **Commit this file** after pasting the above content into the `README.md` editor.
-2. Ensure the screenshots are uploaded under the **`/images`** folder in your repository for the links to work correctly. 
-
-Now your **README.md** includes the relevant images and links!
