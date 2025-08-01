@@ -150,9 +150,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🔗 Connect with Me on LinkedIn
-
-[LinkedIn Profile](https://www.linkedin.com/in/manjunatha-r-999371306/)
+## 🔗 Connect with Me on LinkedIn(https://www.linkedin.com/in/manjunatha-r-999371306/)
 
 ---
 
