@@ -92,7 +92,7 @@ The assistant is designed to be used by anyone looking to improve their eating h
 ![Setup AI Agent](./images/Setup.png)
 
 ### 🔹 **Agent Instructions Configuration**  
-![Agent Instructions](./images/Deployed.png)
+![Agent Instructions](./images/instructions.png)
 
 ### 🔹 **User Interaction**  
 ![User Interaction](./images/Preview.png)
