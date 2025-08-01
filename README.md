@@ -79,7 +79,7 @@ The assistant is designed to be used by anyone looking to improve their eating h
 
 ## 🚀 How It Works
 
-1. **User Input**: Users provide information through a text query (e.g., "What’s a good meal for weight loss?") 
+1. **User Input**: Users provide information through a text query (e.g., "What’s a good meal for weight loss?") or upload images (e.g., food photos or grocery labels).
 2. **Processing**: The input is processed by **IBM Granite LLM** to interpret the context, health goals, and preferences.
 3. **Data Retrieval**: The **Vector Index** retrieves the most relevant nutritional data from uploaded documents (e.g., USDA guidelines).
 4. **Response Generation**: The AI agent generates a personalized response, such as a **meal plan**, **food swap suggestion**, or a **nutritional explanation**.
@@ -89,19 +89,19 @@ The assistant is designed to be used by anyone looking to improve their eating h
 ## 🖼️ Screenshots
 
 ### 🔹 **Setting Up the AI Agent**  
-- Image showing how to configure and set up the agent within **IBM Watsonx.ai Studio**.(./images/setting_up.png)
+![Setup AI Agent](./images/Setup.png)
 
 ### 🔹 **Agent Instructions Configuration**  
-- A screenshot showing how **agent instructions** are set to provide personalized, contextual, and clear advice.
+![Agent Instructions](./images/Deployed.png)
 
 ### 🔹 **User Interaction**  
-- Image showing **user input** (e.g., asking for meal suggestions) and the assistant’s **response** with a personalized meal plan.
+![User Interaction](./images/Preview.png)
 
 ### 🔹 **Deployment & Testing**  
-- Image showcasing the deployment process, including integration with APIs and testing the assistant.
+![Deployment](./images/Deployed_1.png)
 
 ### 🔹 **API Reference**  
-- A screenshot showing the **API endpoints** available for interacting with the agent programmatically.
+![API Reference](./images/Result.png)
 
 ---
 
@@ -149,3 +149,11 @@ This project is licensed under the **MIT License**.
 ---
 
 Created with 💙 during the **IBM SkillsBuild for Academia Internship 2025** by **[Your Name]**.
+
+---
+
+### Steps:
+1. **Commit this file** after pasting the above content into the `README.md` editor.
+2. Ensure the screenshots are uploaded under the **`/images`** folder in your repository for the links to work correctly. 
+
+Now your **README.md** includes the relevant images and links!
