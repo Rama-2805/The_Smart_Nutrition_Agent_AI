@@ -155,6 +155,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Created with during the **IBM SkillsBuild for Academia Internship 2025** by **Manjunatha R**.
+Created with during the **IBM SkillsBuild for AICTE(Edunet foundation)Internship 2025** by **Manjunatha R**.
 
 ---
