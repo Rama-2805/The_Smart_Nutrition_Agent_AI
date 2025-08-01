@@ -89,19 +89,26 @@ The assistant is designed to be used by anyone looking to improve their eating h
 ## 🖼️ Screenshots
 
 ### 🔹 **Setting Up the AI Agent**  
-![Setup AI Agent](./images/Setup.png)
+![Setup AI Agent]
+<img width="1365" height="643" alt="Setup" src="https://github.com/user-attachments/assets/6e67a022-2d8f-46f5-8440-36a3abca76a9" />
+
 
 ### 🔹 **Agent Instructions Configuration**  
-![Agent Instructions](./images/instructions.png)
+![Agent Instructions]
+<img width="1364" height="643" alt="instructions" src="https://github.com/user-attachments/assets/28f9172a-d967-4397-8842-87482009411f" />
+
 
 ### 🔹 **User Interaction**  
-![User Interaction](./images/Preview.png)
+![User Interaction]
+<img width="1365" height="643" alt="Preview" src="https://github.com/user-attachments/assets/6708dd07-7cb4-4eb9-a3ea-7e7a495dab43" />
 
 ### 🔹 **Deployment & Testing**  
-![Deployment](./images/Deployed_1.png)
+![Deployment]
+<img width="1365" height="643" alt="Depolyed" src="https://github.com/user-attachments/assets/6d52cf8b-86f3-4244-9301-db9d882110af" />
 
 ### 🔹 **API Reference**  
-![API Reference](./images/Result.png)
+![API Reference]
+<img width="1365" height="644" alt="Depolyed_1" src="https://github.com/user-attachments/assets/a4602d38-6978-4c03-b87e-10a77daac7f7" />
 
 ---
 
@@ -136,7 +143,8 @@ The assistant is designed to be used by anyone looking to improve their eating h
 
 ---
 
-## ⚖️ License
+## ⚖️ License![Uploading instructions.png…]()
+
 
 This project is licensed under the **MIT License**.
 
